@@ -1,6 +1,6 @@
 # Pavê de biscoito Champagne :cookie:
 
-## Ingredientes
+## Ingredientes:woman_cook:
 
 - 1 Caixa de biscoito champagne
 - 1 Lata de creme de leite
