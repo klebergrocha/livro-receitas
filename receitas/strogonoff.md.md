@@ -1,7 +1,5 @@
 # Strogonoff de Frango :chicken:
 
-## 
-
 ### Ingredirentes
 
 - 1 quilo de pieto de frango sem pele
@@ -20,4 +18,5 @@
 2. Assim que o frango estiver bem cozido, acrescente o molho de tomate, o ketchup, a mostarda e champignon a gosto.
 3. Abaixe o fogo e coloque o creme de leite e mexa bem até se tornar um creme homogêneo.
 4. Está pronto para servir.
+5. Sirva com arroz branco, batata palha e salada de sua preferência.
 
